@@ -1,2 +1,4 @@
 # Bugs for Partner
- try to find with browser
+ Try to find with browser
+
+ There some bugs in JavaScript.
